@@ -108,3 +108,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: blox-fruits-auto, blox-fruits, roblox, autofarm, quests, raids, levels, gaming-tools, automation, cli, developer-tools, open-source, windows, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+blox-fruits roblox autofarm quests raids levels gaming-tools automation blox-fruits-helper bf-autofarm blox-fruits-auto windows portable prebuilt x64 free download
+related: blox-fruits, roblox, autofarm, quests, raids, levels, gaming-tools, automation
